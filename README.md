@@ -1,8 +1,8 @@
 <!---
-- 👋 Hi, I’m @DavyHosh
-- 👀 I’m interested in Java, HTML, CSS & JS.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java training projects.
+- 👋 Hi, I’m @avid Maina
+- 👀 I’m interested in HTML, CSS & JS, React, Dart and Python.
+- 🌱 I’m currently learning Dart and React.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me davidwmaina89@gmail.com
 
 <!---

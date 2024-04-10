@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
  
 # About me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
-Hey there! I'm David Maina, a recent graduate interested in programming and cyber security. 
+Hey there! I'm David Maina, a graduate of BSc. Information Security and Forensics. I'm interested in Software Development and Cyber Security. 
 
 <br>
 

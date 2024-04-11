@@ -1,6 +1,6 @@
 <!---
 - 👋 Hi, I’m @avid Maina
-- 👀 I’m interested in HTML, CSS & JS, React, Dart and Python.
+- 👀 I’m interested in HTML, CSS & JS, React and Python.
 - 🌱 I’m currently learning Dart and React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me davidwmaina89@gmail.com
@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
  
 # About me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
-Hey there! I'm David Maina, a graduate of BSc. Information Security and Forensics. I'm interested in Software Development and Cyber Security. 
+Hey there! I'm a graduate of BSc. Information Security and Forensics who's interested in Software Development and Cyber Security. 
 
 <br>
 
 ### Areas of interest: 
 
-   <a href="https://github.com/DavyHosh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Programming;Network+Security;Ethical+Hacking;Web+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+   <a href="https://github.com/DavyHosh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development;Cyber+Security;Digital+Forensics;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 
 

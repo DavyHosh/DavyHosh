@@ -51,13 +51,10 @@ Hey there! I'm a graduate of BSc. Information Security and Forensics who's inter
 ### Database 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 
-<br>
-
-
-
 ### Favorite OS
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)&nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.kali.org/)
 <br>
 
 <br>

@@ -29,7 +29,7 @@ Hey there! I'm a graduate of BSc. Information Security and Forensics who's inter
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-
+<!-- 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -37,7 +37,7 @@ Hey there! I'm a graduate of BSc. Information Security and Forensics who's inter
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
-
+-->
 #### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 

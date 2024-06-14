@@ -10,18 +10,18 @@ DavyHosh/DavyHosh is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
  
-# David Maina <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> 
+<!--- # David Maina <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> --->
 
 Hey there! I'm a graduate of BSc. Information Security and Forensics who's interested in Software Development, Cyber Security  and Digital Forensics. 
 
 <br>
 
-### Areas of interest: 
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Alt text" width="400px" height="300px"/>
+<!--- ### Areas of interest: --->
+<!--- <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Alt text" width="400px" height="300px"/> --->
 
 
-<br>
-   <a href="https://github.com/DavyHosh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development;Cyber+Security;Digital+Forensics;&center=true&width=500&height=50"></a>
+<!--- <br> --->
+<!---   <a href="https://github.com/DavyHosh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development;Cyber+Security;Digital+Forensics;&center=true&width=500&height=50"></a> --->
 
 
 <br>

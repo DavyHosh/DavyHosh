@@ -51,8 +51,8 @@ Hey there! I'm a graduate of BSc. Information Security and Forensics who's inter
 
 ### Favorite OS
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
-<br>
+<!--- ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
+<br> --->
 
 <br>
 
